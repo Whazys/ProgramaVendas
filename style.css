@@ -1,12 +1,13 @@
 body {
     margin: auto;
     width: 60%;
+    background-color: azure;
 }
 
 header {
     display: flex;
     justify-content: center;
-    background-color: lightgray;
+    background-color: darkslategrey;
     color: aliceblue;
     text-align: center;
 }
